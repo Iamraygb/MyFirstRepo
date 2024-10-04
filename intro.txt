@@ -1,8 +1,0 @@
-About Me:
-My name is Ray Sama, I am an Industrial Design Student at the New Jersey Institute of Technology
-This is my second month in New Jersey, as I moved in to begin started the fall semester here
-I look forward to learning Web design in my CS104 class, already with knowledge of HTML, I look forward to using CSS in the website design process
-
-Favourite Hobby:
-I enjoy playing the guitar, practicing to be specific as I am new to playing the acoustic guitar. 
-I would also sing sometimes it's like using my voice to create music
